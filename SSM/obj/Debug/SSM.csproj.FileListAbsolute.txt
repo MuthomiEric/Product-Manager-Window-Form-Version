@@ -1,0 +1,12 @@
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\bin\Debug\SSM.exe.config
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\bin\Debug\SSM.exe
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\bin\Debug\SSM.pdb
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.Create_Product.resources
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.Home.resources
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.Properties.Resources.resources
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.csproj.GenerateResource.cache
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.csproj.CoreCompileInputs.cache
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.exe
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.pdb
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.csprojAssemblyReference.cache
+C:\Users\TSOMI\Desktop\PROJECTS\Stock Manager Sokokapu\SSM\obj\Debug\SSM.AllProducts.resources
